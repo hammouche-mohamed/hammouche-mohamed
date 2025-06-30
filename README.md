@@ -40,9 +40,4 @@ Email Me 👉 ✉️ mohamed.contact23@gmail.com For Collaboration/Project or An
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mohamed-hammouche&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=mohamed-hammouche&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
 
