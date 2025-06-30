@@ -2,7 +2,7 @@
  **A passionate Computer Science & Cyber Security student || Full Stack developer - From Algeria** <br><br>
 Email Me 👉 ✉️ mohamed.contact23@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hammouche-mohamed-043aa7339/) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-hammouche-043aa7339/) &nbsp;
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamed.contact23@gmail.com) 
 
 ## 🏆 GitHub Trophies
@@ -30,7 +30,7 @@ Email Me 👉 ✉️ mohamed.contact23@gmail.com For Collaboration/Project or An
 </div>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hammouche-mohamed-043aa7339/) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-hammouche-043aa7339/) &nbsp;
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamed.contact23@gmail.com) 
 
 
