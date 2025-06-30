@@ -2,11 +2,11 @@
  **A passionate Computer Science & Cyber Security student || Full Stack developer - From Algeria** <br><br>
 Email Me 👉 ✉️ mohamed.contact23@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-hammouche-043aa7339/) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hammouche-mohamed-043aa7339/) &nbsp;
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamed.contact23@gmail.com) 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohamed-hammouche&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=hammouche-mohamed&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 # 💻 Tech Stack:
@@ -21,16 +21,16 @@ Email Me 👉 ✉️ mohamed.contact23@gmail.com For Collaboration/Project or An
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-hammouche&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=mohamed-hammouche&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false) &nbsp;
-![](https://nirzak-streak-stats.vercel.app/?user=mohamed-hammouche&theme=catppuccin_mocha&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hammouche-mohamed&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=hammouche-mohamed&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false) &nbsp;
+![](https://nirzak-streak-stats.vercel.app/?user=hammouche-mohamed&theme=catppuccin_mocha&hide_border=false)
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation">
 </div>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-hammouche-043aa7339/) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hammouche-mohamed-043aa7339/) &nbsp;
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamed.contact23@gmail.com) 
 
 
@@ -38,6 +38,6 @@ Email Me 👉 ✉️ mohamed.contact23@gmail.com For Collaboration/Project or An
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mohamed-hammouche&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=hammouche-mohamed&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
 
